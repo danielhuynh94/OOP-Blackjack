@@ -1,0 +1,11 @@
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/bin/Debug/netcoreapp2.1/Blackjack.deps.json
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/bin/Debug/netcoreapp2.1/Blackjack.runtimeconfig.json
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/bin/Debug/netcoreapp2.1/Blackjack.runtimeconfig.dev.json
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/bin/Debug/netcoreapp2.1/Blackjack.dll
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/bin/Debug/netcoreapp2.1/Blackjack.pdb
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/obj/Debug/netcoreapp2.1/Blackjack.csprojAssemblyReference.cache
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/obj/Debug/netcoreapp2.1/Blackjack.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/obj/Debug/netcoreapp2.1/Blackjack.AssemblyInfoInputs.cache
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/obj/Debug/netcoreapp2.1/Blackjack.AssemblyInfo.cs
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/obj/Debug/netcoreapp2.1/Blackjack.dll
+/mnt/c/Users/Daniel/Desktop/OOP/Blackjack/obj/Debug/netcoreapp2.1/Blackjack.pdb
